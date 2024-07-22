@@ -1,4 +1,4 @@
-
+<img align="centre" alt="coding" width="1200" src="bg (2).png">
 <h1 align="center">Welcome fellows!👋 <br>I'm Saloni Zade</h1>
 <h3 align="center">A passionate Web developer</h3>
 
