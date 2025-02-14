@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Dev in depth, also I'm a passionate Japanese learner so soon you will find some japanese websites repo!**
 
-- 💬 Feel free to reach out to me!
+- 💬 Feel free to connect!
 
 - 📫 Reach out to me **salonizade09@gmail.com**
 
